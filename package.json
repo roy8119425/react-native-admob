@@ -1,6 +1,6 @@
 {
   "name": "react-native-admob-ex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react-native component for Google AdMob banners and interstitials(With podspec and tsconfig)",
   "author": "Simon Bugert <simon.bugert@gmail.com>",
   "main": "index.js",
@@ -13,8 +13,8 @@
   "keywords": [
     "react-native",
     "admob",
-	"podspec",
-	"type-script"
+    "podspec",
+    "type-script"
   ],
   "dependencies": {
     "prop-types": "^15.5.10"
